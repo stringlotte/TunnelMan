@@ -1,7 +1,6 @@
 # TunnelMan
 TunnelMan
 
-Initialization:
 
 Decompress DerivedData.zip. Change assets path in main.cpp if necessary.
 
